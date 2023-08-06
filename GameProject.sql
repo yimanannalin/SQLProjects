@@ -2,6 +2,8 @@
 Video Games Sales Data Exploration
 
 Skills used: Joins, Temp Tables, Windows Functions, Aggregate Functions, Data Cleaning
+
+Kaggle dataset used: https://www.kaggle.com/datasets/gregorut/videogamesales
 */
 
 
