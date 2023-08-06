@@ -1,2 +1,6 @@
 # SQLProjects
-This Repository will hold all of the code and queries from the Portfolio Projects we create.  Please feel free to take these and run with them. Make them your own and find you own insights  I really do hope this is helpful and helps you land that dream job! :D
+This Repository holds all of the code and queries from the SQL Projects I have created.  
+
+Please feel free to let me know if there are any questions.
+
+Thank you so much for your time!
